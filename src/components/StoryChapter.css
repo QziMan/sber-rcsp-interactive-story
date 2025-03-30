@@ -1,0 +1,23 @@
+.story-chapter {
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  border-radius: 8px;
+  color: #fff;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.chapter-text {
+  font-size: 24px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  margin-bottom: 20px;
+}
+
+.chapter-choices {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}

@@ -1,0 +1,14 @@
+.choise-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.choise-button:hover {
+  background-color: #45a049;
+}
